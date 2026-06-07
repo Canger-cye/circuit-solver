@@ -1,0 +1,71 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-06-07",
+  "templates": [
+    {
+      "id": "01",
+      "name": "欧姆定律",
+      "file": "templates/01_欧姆定律.json",
+      "difficulty": "easy",
+      "topics": ["电阻", "串联", "并联", "分压", "分流"]
+    },
+    {
+      "id": "02",
+      "name": "基尔霍夫定律",
+      "file": "templates/02_基尔霍夫定律.json",
+      "difficulty": "easy",
+      "topics": ["KCL", "KVL", "节点电流", "回路电压"]
+    },
+    {
+      "id": "03",
+      "name": "节点电压法",
+      "file": "templates/03_节点电压法.json",
+      "difficulty": "medium",
+      "topics": ["节点电压", "自导", "互导", "电导"]
+    },
+    {
+      "id": "04",
+      "name": "网孔电流法",
+      "file": "templates/04_网孔电流法.json",
+      "difficulty": "medium",
+      "topics": ["网孔电流", "自阻", "互阻"]
+    },
+    {
+      "id": "05",
+      "name": "叠加定理",
+      "file": "templates/05_叠加定理.json",
+      "difficulty": "medium",
+      "topics": ["叠加", "单独作用", "线性电路"]
+    },
+    {
+      "id": "06",
+      "name": "戴维南定理与诺顿定理",
+      "file": "templates/06_戴维南定理.json",
+      "difficulty": "medium",
+      "topics": ["戴维南", "诺顿", "等效电路", "最大功率传输"]
+    },
+    {
+      "id": "07",
+      "name": "RL/RC/RLC暂态分析",
+      "file": "templates/07_RLC暂态分析.json",
+      "difficulty": "hard",
+      "topics": ["暂态", "三要素法", "时间常数", "换路定则"]
+    },
+    {
+      "id": "08",
+      "name": "正弦稳态分析",
+      "file": "templates/08_正弦稳态分析.json",
+      "difficulty": "hard",
+      "topics": ["相量", "阻抗", "导纳", "交流电路"]
+    },
+    {
+      "id": "09",
+      "name": "功率分析与功率因数校正",
+      "file": "templates/09_功率分析.json",
+      "difficulty": "hard",
+      "topics": ["有功功率", "无功功率", "功率因数", "复功率"]
+    }
+  ],
+  "examples": [],
+  "knowledge_base": "knowledge.md"
+}
